@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vitamina D e a Luz Solar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to bottom, #fffbcc, #ffdab9);
+            color: #333;
+        }
+        header {
+            background-color: #ffcc33;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        .image-section {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .image-section img {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+        .content {
+            margin-top: 20px;
+            line-height: 1.6;
+        }
+        .content h2 {
+            color: #ff9900;
+        }
+        footer {
+            background-color: #ffcc33;
+            text-align: center;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        footer p {
+            margin: 0;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Explorando a Vitamina D</h1>
+    </header>
+    <div class="image-section">
+        <img src="logo_placeholder.jpg" alt="Logo ou imagem inicial do site">
+    </div>
+    <div class="container">
+        <div class="image-section">
+            <img src="image_placeholder.jpg" alt="Ilustração da relação entre vitamina D e luz solar">
+        </div>
+        <div class="content">
+            <h2>Vitamina D e o Corpo Humano</h2>
+            <p>
+                A imagem acima simboliza a interação essencial entre a luz solar e o corpo humano, 
+                destacando o papel da vitamina D na saúde. O sol brilhante conecta-se com a figura humana, 
+                sugerindo a importância da exposição à luz para a síntese dessa vitamina vital.
+            </p>
+            <h2>Elementos da Composição</h2>
+            <p>
+                - Figura humana composta por esferas e círculos, representando a complexidade do corpo humano.<br>
+                - Frasco de vitamina D na mesa, ressaltando a importância dessa substância.<br>
+                - Fundo cósmico colorido, simbolizando energia e vitalidade.
+            </p>
+            <h2>Mensagem Principal</h2>
+            <p>
+                A vitamina D, muitas vezes chamada de "vitamina do sol", é crucial para a saúde óssea, 
+                imunidade e bem-estar geral. A imagem inspira a conexão entre ciência, arte e natureza.
+            </p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 - Vitamina D e a Luz Solar. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
